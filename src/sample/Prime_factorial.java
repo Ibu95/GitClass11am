@@ -54,6 +54,12 @@ public class Prime_factorial {
 			f--;//
 		}
 		System.out.println(factorial);
+		
+		while (f > 0) {
+			factorial = factorial * f;// 120
+			f--;//
+		}
+		System.out.println(factorial);
 
 	}
 }
