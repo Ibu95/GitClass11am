@@ -13,6 +13,13 @@ public class Odd_or_Even {
 		} else {
 			System.out.println(a + " = Is Odd number");
 		}
+		
+		
+		if (a % 2 == 0) {
+			System.out.println(a + " = Is Even number");
+		} else {
+			System.out.println(a + " = Is Odd number");
+		}
 
 	}
 }
