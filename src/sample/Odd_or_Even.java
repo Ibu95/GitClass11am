@@ -20,5 +20,9 @@ public class Odd_or_Even {
 			System.out.println(a + " = Is Odd number");
 		}
 
+		
+
+		
+
 	}
 }
